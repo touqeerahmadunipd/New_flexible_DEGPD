@@ -1,0 +1,2 @@
+
+The code in this repository is developed to fit a new, flexible version of the Discrete Extended Generalized Pareto Distribution (DEGPD). This distribution provides enhanced flexibility for modeling and analyzing discrete data, particularly in situations where extreme values or over-dispersion are present. The code is designed for efficient parameter estimation and includes options for model fitting, confidence interval calculation, and diagnostics.
